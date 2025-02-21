@@ -10,7 +10,6 @@
 ### Data: IRI Academic dataset: Shared through Google Drive
 <br>
 ### Econometric/ML models to compare
-
 ### 1. Homogeneous Logit 
 ### 2. BLP: independent normal for product attributes + price + feature + display
 ### 3. log-log model: linear mixed effect - hierarchical Bayes (SCAN PRO Plus): most widely used
@@ -23,7 +22,6 @@
 <br>
 ### 9. Deep Learning - TimeGPT
 ### 10. Any other candidate (?)
-<br>
 <br>
 ### Depriotized
 ### 11. SVM (?)
