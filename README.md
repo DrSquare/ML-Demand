@@ -1,11 +1,11 @@
 ### This is Repo for ML Demand Model Projects <br />
-
+ <br />
 ### Language: Python <br />
 ### Team members: Minha Hwang 
 ###               Sang Su (Paul) Lee
 ###               Jinhyuk Lee
 ###               Seonah Lee <br />
-
+ <br /> 
 ### Data: IRI Academic dataset: Shared through Google Drive  <br />
 
 ### Econometric models to compare
